@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function() {
    // Success message
 alert(`✅ Thank you, ${name}! Your message about e-waste has been sent successfully.`);
 
-// Extra message to make it stand out
+// Extra message 
 alert(" Every small action counts. Together, we can reduce e-waste and protect our planet!");
 
 // Log data (for testing purposes)
